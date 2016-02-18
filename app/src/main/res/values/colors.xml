@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4477FF</color>
+    <color name="colorPrimaryDark">#2255DD</color>
+    <color name="colorAccent">#FF3045</color>
+    <color name="flat_button">#FFFAFAFA</color>
+    <color name="gray500">#FF999999</color>
+</resources>
